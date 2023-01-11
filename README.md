@@ -70,7 +70,6 @@
 更に、これが強双対性によって同値な二つの表現方法
 を持つことまでを説明する予定です。
 <br>
-[参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSe_cOIldMDXRraCz6Ag7Bs-dRbpz2Ld3YPevaAry7Kl-SfkuQ/viewform) **(会場の定員に達しましたので、オンラインでのみご参加いただけます。)**
 
 # 第2回
 日時: 2023/1/26 (木) 13:00-17:00 JST<br>

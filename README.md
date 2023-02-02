@@ -73,7 +73,7 @@
 であるWasserstein距離の定義や動機、
 更に、これが強双対性によって同値な二つの表現方法
 を持つことまでを説明する予定です。<br>
-[ホワイトボード](./lectures4mlphys_20230112_whiteboard.pdf)
+[[ホワイトボード]](./lectures4mlphys_20230112_whiteboard.pdf)
 
 # 第2回
 日時: 2023/1/26 (木) 13:00-17:00 JST<br>
@@ -94,4 +94,5 @@
 この分野と物理学との関係はとても深いものです。
 この講義では、変分近似法を用いた確率的グラフィカルモデルの推論と学習について、
 物理屋に分かりやすい言葉で説明していきたいと思います。<br>
-[スライド](./ml-phys.pdf)
+[[スライド]](./ml-phys.pdf)
+[[動画]](https://www.youtube.com/playlist?list=PLqbAObo2uCdFNaOU26ozKqiC7khPWs1Bk)

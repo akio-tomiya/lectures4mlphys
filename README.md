@@ -56,8 +56,8 @@
 開催方法: 対面とオンラインのハイブリッド <br>
 場所: [銀座ユニーク会議室　銀座7丁目店 N402号室](https://ginza-uni-ku.jp/rental_room/n402/) <br>
 概要:
-1. ニューラルネットワークの基礎 
-2. ニュートン力学をニューラルネットワークで表現 
+1.ニューラルネットワークの基礎 <br>
+2.ニュートン力学をニューラルネットワークで表現 <br>
 について、数式を板書しながら説明していく。 <br>
 
 [第3回への参加登録はこちらから](https://docs.google.com/forms/d/e/1FAIpQLSfhndmCBf7DjrVcIoksrxFpR_Kqu-IfsBbGVcs_3pNS5WWUnw/viewform?usp=sf_link)

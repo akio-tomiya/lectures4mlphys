@@ -60,7 +60,7 @@
 2.ニュートン力学をニューラルネットワークで表現 <br>
 について、数式を板書しながら説明していく。 <br>
 
-[第3回への参加登録はこちらから](https://docs.google.com/forms/d/e/1FAIpQLSfhndmCBf7DjrVcIoksrxFpR_Kqu-IfsBbGVcs_3pNS5WWUnw/viewform?usp=sf_link)
+<!-- [第3回への参加登録はこちらから](https://docs.google.com/forms/d/e/1FAIpQLSfhndmCBf7DjrVcIoksrxFpR_Kqu-IfsBbGVcs_3pNS5WWUnw/viewform?usp=sf_link) -->
 
 # 第4回
 日時: 2023/6/29 <br>

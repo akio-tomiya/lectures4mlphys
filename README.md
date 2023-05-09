@@ -62,6 +62,15 @@
 
 [第3回への参加登録はこちらから](https://docs.google.com/forms/d/e/1FAIpQLSfhndmCBf7DjrVcIoksrxFpR_Kqu-IfsBbGVcs_3pNS5WWUnw/viewform?usp=sf_link)
 
+# 第4回
+日時: 2023/6/29 <br>
+講師: 堀江 正信（株式会社RICOS)　<br>
+講演題目: <br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [銀座ユニーク会議室　銀座7丁目店 N402号室](https://ginza-uni-ku.jp/rental_room/n402/)　<br>
+概要:
+<br>
+
 今後の講義につきましては、決定次第、ML等でご連絡します。
 
 # <終了した講義>

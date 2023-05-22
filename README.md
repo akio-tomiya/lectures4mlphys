@@ -1,5 +1,7 @@
 # 物理屋のための機械学習講義
 
+[Youtube チャンネル](https://www.youtube.com/@lectures4mlphys)
+
 ## 開催趣旨
 機械学習は物理学の幅広い分野で、
 一部既存手法を超える性能を見せるなど、

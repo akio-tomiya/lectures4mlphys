@@ -56,7 +56,7 @@
 講師: 森村　哲郎　（株式会社サイバーエージェント）　<br>
 講演題目: TBA <br>
 開催方法: 対面とオンラインのハイブリッド <br>
-場所: 筑波大学東京キャンパス116教室<br>
+場所: [筑波大学東京キャンパス116教室](https://www.office.otsuka.tsukuba.ac.jp/location/)<br>
 概要:　TBA<br>
 
 # 第6回
@@ -64,7 +64,7 @@
 講師: 今泉　允聡　（東京大学）　<br>
 講演題目: TBA <br>
 開催方法: 対面とオンラインのハイブリッド <br>
-場所: 筑波大学東京キャンパス116教室<br>
+場所: [筑波大学東京キャンパス116教室](https://www.office.otsuka.tsukuba.ac.jp/location/)<br>
 概要:　TBA<br>
 
 

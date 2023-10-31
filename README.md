@@ -59,6 +59,8 @@
 場所: [筑波大学東京キャンパス116教室](https://www.office.otsuka.tsukuba.ac.jp/location/)<br>
 概要:　TBA<br>
 
+[第5回参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSc8u8_fz--89k5IDEJlfxUl7eYut5z-Xrqnz9dvYrLOOfNRAQ/viewform?usp=sharing)
+
 # 第6回
 日時: 2023/12/4 (月) 13:00-17:00 JST<br>
 講師: 今泉　允聡　（東京大学）　<br>
@@ -66,6 +68,8 @@
 開催方法: 対面とオンラインのハイブリッド <br>
 場所: [筑波大学東京キャンパス116教室](https://www.office.otsuka.tsukuba.ac.jp/location/)<br>
 概要:　TBA<br>
+
+[第6回参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSd1e-fhFR8e2lfrn_KlyN8C3uZsINwt59kL27Z-SUkQTa6kDQ/viewform?usp=sharing)
 
 
 今後の講義につきましては、決定次第、ML等でご連絡します。

@@ -73,6 +73,12 @@
 [第6回参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSd1e-fhFR8e2lfrn_KlyN8C3uZsINwt59kL27Z-SUkQTa6kDQ/viewform?usp=sharing)
 
 
+# 第7回
+日時: 2024/1/15　（月）　13:00-17:00 JST <br>
+講師: 唐木田　亮　（産総研） <br>
+講演題目:　（仮）　深層学習と統計力学 <br>
+開催方法:対面とオンラインのハイブリッド <br>
+
 今後の講義につきましては、決定次第、ML等でご連絡します。
 
 # <終了した講義>

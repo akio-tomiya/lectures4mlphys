@@ -51,17 +51,6 @@
 
 [お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfOE9ePnu13LuTJJmWutipysiS68J9nAIv9fPPijrNgmNa1UA/viewform)
 
-# 第5回
-日時: 2023/11/21 (火) 13:00-17:00 JST<br>
-講師: 森村　哲郎　（株式会社サイバーエージェント）　<br>
-講演題目: 強化学習の数理からRLHFまで <br>
-開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス116教室](https://www.office.otsuka.tsukuba.ac.jp/location/)<br>
-概要:　<br>
-強化学習は、意思決定モデルを学習するAI技術として、囲碁、ロボット、大規模言語モデルといった多様な領域で重要な役割を果たしています。しかし、実際に適用する際、どう実問題を強化学習問題として定式化するか、またどう学習の安定性や結果の再現性を保証するかなどの問題に直面します。それらの問題を乗り越え強化学習を活用するには、その背後にある数理的原理を理解することが重要です。この講演では、強化学習の数理的基礎について解説し、その原理を深く探ります。そして、最近の進展として、Decision Transformerや人間のフィードバックを取り入れた強化学習（RLHF）など、言語モデルと強化学習の融合領域についても紹介予定です。<br>
-
-[第5回参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSc8u8_fz--89k5IDEJlfxUl7eYut5z-Xrqnz9dvYrLOOfNRAQ/viewform?usp=sharing)
-
 # 第6回
 日時: 2023/12/4 (月) 13:00-17:00 JST<br>
 講師: 今泉　允聡　（東京大学）　<br>
@@ -71,7 +60,6 @@
 概要:　TBA<br>
 
 [第6回参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSd1e-fhFR8e2lfrn_KlyN8C3uZsINwt59kL27Z-SUkQTa6kDQ/viewform?usp=sharing)
-
 
 # 第7回
 日時: 2024/1/15（月）13:00-17:00 JST <br>
@@ -147,3 +135,12 @@
 <br>
 [[スライド]](https://speakerdeck.com/yellowshippo/dui-cheng-xing-noaruji-jie-xue-xi-niyoruwu-li-xian-xiang-nojie-xi)
 [[動画]](https://www.youtube.com/playlist?list=PLqbAObo2uCdFTnLD9P6DZ3-CL-WIpj_3c)
+
+# 第5回
+日時: 2023/11/21 (火) 13:00-17:00 JST<br>
+講師: 森村　哲郎　（株式会社サイバーエージェント）　<br>
+講演題目: 強化学習の数理からRLHFまで <br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [筑波大学東京キャンパス116教室](https://www.office.otsuka.tsukuba.ac.jp/location/)<br>
+概要:　<br>
+強化学習は、意思決定モデルを学習するAI技術として、囲碁、ロボット、大規模言語モデルといった多様な領域で重要な役割を果たしています。しかし、実際に適用する際、どう実問題を強化学習問題として定式化するか、またどう学習の安定性や結果の再現性を保証するかなどの問題に直面します。それらの問題を乗り越え強化学習を活用するには、その背後にある数理的原理を理解することが重要です。この講演では、強化学習の数理的基礎について解説し、その原理を深く探ります。そして、最近の進展として、Decision Transformerや人間のフィードバックを取り入れた強化学習（RLHF）など、言語モデルと強化学習の融合領域についても紹介予定です。<br>

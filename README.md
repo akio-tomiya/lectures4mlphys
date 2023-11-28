@@ -72,9 +72,9 @@
 
 # 第8回
 日時: 2024/1/22(月) 13:00-17:00 JST <br>
-講師: 道下　佳寛（理研）
-講演題目:（仮）強化学習と物理への応用
-開催方法:対面とオンラインのハイブリット
+講師: 道下　佳寛（理研） <br>
+講演題目:（仮）強化学習と物理への応用 <br>
+開催方法:対面とオンラインのハイブリット <br>
 場所:TBA <br>
 概要:TBA <br>
 
@@ -157,9 +157,7 @@
 概要:　<br>
 強化学習は、意思決定モデルを学習するAI技術として、囲碁、ロボット、大規模言語モデルといった多様な領域で重要な役割を果たしています。しかし、実際に適用する際、どう実問題を強化学習問題として定式化するか、またどう学習の安定性や結果の再現性を保証するかなどの問題に直面します。それらの問題を乗り越え強化学習を活用するには、その背後にある数理的原理を理解することが重要です。この講演では、強化学習の数理的基礎について解説し、その原理を深く探ります。そして、最近の進展として、Decision Transformerや人間のフィードバックを取り入れた強化学習（RLHF）など、言語モデルと強化学習の融合領域についても紹介予定です。<br>
 
-[[スライド1:]](https://drive.google.com/file/d/1djF1yTprzCAPeXgXWqhE8XCgHk3ZDjIZ/view?usp=share_link)
-
-[[スライド2:]](https://drive.google.com/file/d/1dHXaFVL2AMANe2-oy31_ODPSBDgVNC3T/view?usp=share_link)
-
-[[スライド3:]](https://drive.google.com/file/d/1mGN2fYykrBNftQPYi6ktL5qBkmKtyVb8/view?usp=share_link)
+[[スライド1]](https://drive.google.com/file/d/1djF1yTprzCAPeXgXWqhE8XCgHk3ZDjIZ/view?usp=share_link)
+[[スライド2]](https://drive.google.com/file/d/1dHXaFVL2AMANe2-oy31_ODPSBDgVNC3T/view?usp=share_link)
+[[スライド3]](https://drive.google.com/file/d/1mGN2fYykrBNftQPYi6ktL5qBkmKtyVb8/view?usp=share_link)
 

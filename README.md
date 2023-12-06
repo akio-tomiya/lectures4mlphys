@@ -51,6 +51,19 @@
 
 [お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfOE9ePnu13LuTJJmWutipysiS68J9nAIv9fPPijrNgmNa1UA/viewform)
 
+<!-- 講義情報掲載テンプレート
+# 第x回
+日時: 20xx/xx/xx（月） 13:00-17:00 JST <br>
+講師: xxx　（xxx） <br>
+講演題目:TBA <br>
+開催方法:対面とオンラインのハイブリッド <br>
+場所:筑波大学東京キャンパス xxx教室 <br>
+概要:TBA <br>
+
+[[第x回参加登録フォーム]]() <br>
+-->
+
+
 # 第7回
 日時: 2024/1/15（月）13:00-17:00 JST <br>
 講師: 唐木田　亮　（産総研） <br>
@@ -58,6 +71,8 @@
 開催方法:対面とオンラインのハイブリッド <br>
 場所:筑波大学東京キャンパス 122教室 <br>
 概要:TBA <br>
+
+[[第7回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLScTgy66t-ewwOsg2thxQNmjwOnjF6itSPspPb3pT7RiCh3zwg/viewform) <br>
 
 
 # 第8回
@@ -68,6 +83,7 @@
 場所:筑波大学東京キャンパス 118教室 <br>
 概要:TBA <br>
 
+[[第8回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSdTQ-g0hNUm5ta0WoEHXQx0fitZm7ffV_GeFMUWfcTFz2-MPw/viewform)<br>
 
 今後の講義につきましては、決定次第、ML等でご連絡します。
 

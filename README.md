@@ -66,11 +66,12 @@
 
 # 第7回
 日時: 2024/1/15（月）13:00-17:00 JST <br>
-講師: 唐木田　亮　（産総研） <br>
-講演題目:（仮）深層学習と統計力学 <br>
+講師: 唐木田　亮（産総研）<br>
+講演題目:　統計神経力学とその周辺 <br>
+概要:　ニューラルネットの平均場理論とも呼ばれる統計神経力学は、生物や人工の神経回路を数理的に理解する試みのなかで発展してきた枠組みです。特に深層学習では、無限幅極限における普遍的な挙動、勾配消失/発散を防ぐ"カオスの縁"初期化やNTK(Neural Tangent Kernel)レジーム/特徴学習レジームの区分の理解につながっています。本講義では深層学習の統計神経力学を、順方向および逆誤差伝播の解析からはじめ、特徴学習レジームを実現するmuP(Maximal Update Parametrization)まで概観します。また、幅が大きいモデルが過剰パラメータ系であることから現れるアルゴリズムの陰的バイアスについても触れる予定です。 <br>
 開催方法:対面とオンラインのハイブリッド <br>
-場所:筑波大学東京キャンパス 122教室 <br>
-概要:TBA <br>
+場所:　[筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/)122教室<br>
+
 
 [[第7回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLScTgy66t-ewwOsg2thxQNmjwOnjF6itSPspPb3pT7RiCh3zwg/viewform) <br>
 
@@ -79,9 +80,10 @@
 日時: 2024/1/22(月) 13:00-17:00 JST <br>
 講師: 道下　佳寛（理研） <br>
 講演題目:（仮）強化学習と物理への応用 <br>
-開催方法:対面とオンラインのハイブリット <br>
-場所:筑波大学東京キャンパス 118教室 <br>
 概要:TBA <br>
+開催方法:対面とオンラインのハイブリット <br>
+場所:　[筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/)118教室<br>
+
 
 [[第8回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSdTQ-g0hNUm5ta0WoEHXQx0fitZm7ffV_GeFMUWfcTFz2-MPw/viewform)<br>
 

@@ -165,5 +165,4 @@
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/)122教室<br>
 概要: <br>
 ニューラルネットの平均場理論とも呼ばれる統計神経力学は、生物や人工の神経回路を数理的に理解する試みのなかで発展してきた枠組みです。特に深層学習では、無限幅極限における普遍的な挙動、勾配消失/発散を防ぐ"カオスの縁"初期化やNTK(Neural Tangent Kernel)レジーム/特徴学習レジームの区分の理解につながっています。本講義では深層学習の統計神経力学を、順方向および逆誤差伝播の解析からはじめ、特徴学習レジームを実現するmuP(Maximal Update Parametrization)まで概観します。また、幅が大きいモデルが過剰パラメータ系であることから現れるアルゴリズムの陰的バイアスについても触れる予定です。 <br>
-[[スライド]]()：準備中<br>
-[[動画]]()：準備中<br>
+[[スライド]](https://www.dropbox.com/scl/fi/bsnjr4mjpv24hh7nnaggw/_-7.pdf?rlkey=fka2qbub92zcpwf5y5ufappsm&dl=0)　<br>

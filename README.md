@@ -159,3 +159,6 @@
 本講演では、自身の研究に沿って強化学習手法(Alpha Zero)を用いて、物理の理論解析手法を導出するフレームワークを提案・例示する。
 前半では、Tutorialとして強化学習の基本的な理論・手法を、物理屋の目線から簡単に解説・実演し、強化学習に親しみを持ってもらう。
 後半では、先行研究としてのSymbolic Regressionの話を簡単におさらいし、自身の研究について解説する予定である。<br>
+[[スライド1]](DLaP_Michishita_part1.pdf)　[[スライド2]](DLaP_Michishita_part2.pdf) [[スライド3]](DLaP_Michishita_part3.pdf)<br>
+[[動画]](https://www.youtube.com/playlist?list=PLqbAObo2uCdHQz7gZ8DovJVVIWtUPVjHi)<br>
+

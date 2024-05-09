@@ -205,3 +205,4 @@
 ・線形モデルと勾配降下法<br>
 ・特徴量工学と表現学習<br>
 ・Pythonによる実装<br>
+[[動画]](https://www.youtube.com/playlist?list=PLqbAObo2uCdGeG9zBgAfnCD8Mfd-Lj1zd) <br>

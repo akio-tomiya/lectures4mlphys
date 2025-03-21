@@ -69,9 +69,11 @@
 講師: 田中 章詞 (理研) <br>
 講演題目: 機械学習の基礎 (仮) <br>
 開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) TBA <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) (予定) <br>
 概要: <br>
 TBA<br>
+
+[[第14回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSc14S98hSbscf3sahSOpDnfUr6Ccut52mvFPVIhvABqq5Lqxg/viewform?usp=preview) <br>
 
 # <終了した講義>
 

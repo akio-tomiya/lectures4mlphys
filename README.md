@@ -66,7 +66,7 @@
 
 # 第14回
 日時: 2025/4/21 (月) 13:00-17:00 JST <br>
-講師: 田中 章詞 (理研) <br>
+講師: 田中 章詞 (理研AIP) <br>
 講演題目: 機械学習の基礎 (仮) <br>
 開催方法: 対面とオンラインのハイブリッド <br>
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) (予定) <br>
@@ -74,6 +74,33 @@
 TBA<br>
 
 [[第14回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSc14S98hSbscf3sahSOpDnfUr6Ccut52mvFPVIhvABqq5Lqxg/viewform?usp=preview) <br>
+
+# 第15回
+日時: 2025/5/12 (月) 13:00-17:00 JST <br>
+講師: 田中 章詞 (理研AIP) <br>
+講演題目: 強化学習 (基礎編) (仮) <br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) (予定) <br>
+概要: <br>
+TBA<br>
+
+# 第16回
+日時: 2025/5/19 (月) 13:00-17:00 JST <br>
+講師: 田中 章詞 (理研AIP) <br>
+講演題目: 強化学習 (応用編) (仮) <br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) (予定) <br>
+概要: <br>
+TBA<br>
+
+# 第17回
+日時: 2025/6/20 (金) 13:00-17:00 JST <br>
+講師: 野村 悠祐 (東北大) <br>
+講演題目: 機械学習の量子多体問題への応用 (仮) <br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) (予定) <br>
+概要: <br>
+TBA<br>
 
 # <終了した講義>
 

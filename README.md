@@ -69,7 +69,7 @@
 講師: 田中 章詞 (理研AIP) <br>
 講演題目: 機械学習の基礎 (仮) <br>
 開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) (予定) <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
 概要: <br>
 TBA<br>
 
@@ -80,7 +80,7 @@ TBA<br>
 講師: 田中 章詞 (理研AIP) <br>
 講演題目: 強化学習 (基礎編) (仮) <br>
 開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) (予定) <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
 概要: <br>
 TBA<br>
 
@@ -89,7 +89,7 @@ TBA<br>
 講師: 田中 章詞 (理研AIP) <br>
 講演題目: 強化学習 (応用編) (仮) <br>
 開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) (予定) <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
 概要: <br>
 TBA<br>
 
@@ -98,7 +98,7 @@ TBA<br>
 講師: 野村 悠祐 (東北大) <br>
 講演題目: 機械学習の量子多体問題への応用 (仮) <br>
 開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) (予定) <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) <span style="color: red;">**116講義室 !!!いつもと講義室が異なります!!!**</span> <br>
 概要: <br>
 TBA<br>
 

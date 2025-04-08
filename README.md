@@ -65,11 +65,14 @@
 # 第14回
 日時: 2025/4/21 (月) 13:00-17:00 JST <br>
 講師: 田中 章詞 (理研AIP) <br>
-講演題目: 機械学習の基礎 (仮) <br>
+講演題目: 機械学習と深層学習の実践入門 <br>
 開催方法: 対面とオンラインのハイブリッド <br>
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
 概要: <br>
-TBA<br>
+本講義では、Python を用いた主要な機械学習ライブラリである scikit-learn、Keras、TensorFlow、PyTorch、JAX の特徴と使い方を説明します。​各ライブラリの強みや適用例を理解するために実践的なコード演習を通じて説明する予定です。​講義は https://github.com/AkinoriTanaka-phys/cs4mathphys/blob/main/python_and_ml/TOC.md の section3 をなぞってゆく予定です。Python やそのライブラリに詳しくない方は事前に section1 と section2 を読んでおいていただくと、ある程度スムーズに理解できると思います。<br>
+
+* **本講義では、Python を用いた実習を行います。当日はご自身の環境や Google Colab 等で Python を使用できるよう、ご準備をお願いいたします。**
+* **また、対面でご参加の場合は、インターネットに接続可能な PC をご持参ください。会場では eduroam が利用可能です。eduroam にアカウントをお持ちでない方には、当日、ゲスト WiFi アカウントを発行いたします。**
 
 [[第14回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSc14S98hSbscf3sahSOpDnfUr6Ccut52mvFPVIhvABqq5Lqxg/viewform?usp=preview) <br>
 

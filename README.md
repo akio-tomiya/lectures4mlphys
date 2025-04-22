@@ -25,7 +25,7 @@
 - 初めて参加される方は、対面・オンラインでの参加にかかわらず、参加登録してください。
 次回以降の講義の情報 (オンラインでの参加方法など) をご希望の方は、参加登録フォームにて設定いただけます。
 - **対面で参加される方は、参加を希望される講義ごとに必ず参加登録してください。**
-- 前日の正午までに参加登録をお済ませください。
+- **前日の正午までに参加登録をお済ませください。**
 - 参加登録フォームが各講義ごとに複数開いている場合があります。ご登録される際はどの講義の登録フォームか十分にご確認ください。
 
 ## 対面で参加される方へ
@@ -62,20 +62,6 @@
 
 <br>
 
-# 第14回
-日時: 2025/4/21 (月) 13:00-17:00 JST <br>
-講師: 田中 章詞 (理研AIP) <br>
-講演題目: 機械学習と深層学習の実践入門 <br>
-開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
-概要: <br>
-本講義では、Python を用いた主要な機械学習ライブラリである scikit-learn、Keras、TensorFlow、PyTorch、JAX の特徴と使い方を説明します。​各ライブラリの強みや適用例を理解するために実践的なコード演習を通じて説明する予定です。​講義は [https://github.com/AkinoriTanaka-phys/cs4mathphys/blob/main/python_and_ml/TOC.md](https://github.com/AkinoriTanaka-phys/cs4mathphys/blob/main/python_and_ml/TOC.md) の section3 をなぞってゆく予定です。Python やそのライブラリに詳しくない方は事前に section1 と section2 を読んでおいていただくと、ある程度スムーズに理解できると思います。<br>
-
-* **本講義では、Python を用いた実習を行います。当日はご自身の環境や Google Colab 等で Python を使用できるよう、ご準備をお願いいたします。**
-* **また、対面でご参加の場合は、インターネットに接続可能な PC をご持参ください。会場では eduroam が利用可能です。eduroam にアカウントをお持ちでない方には、当日、ゲスト WiFi アカウントを発行いたします。**
-
-[[第14回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSc14S98hSbscf3sahSOpDnfUr6Ccut52mvFPVIhvABqq5Lqxg/viewform?usp=preview) <br>
-
 # 第15回
 日時: 2025/5/12 (月) 13:00-17:00 JST <br>
 講師: 田中 章詞 (理研AIP) <br>
@@ -85,6 +71,8 @@
 概要: <br>
 TBA<br>
 
+**!!!参加登録フォームは、第16回の下にあります!!!**
+
 # 第16回
 日時: 2025/5/19 (月) 13:00-17:00 JST <br>
 講師: 田中 章詞 (理研AIP) <br>
@@ -93,6 +81,8 @@ TBA<br>
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
 概要: <br>
 TBA<br>
+
+[[第15回・第16回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLScJFSkLA51XnJIulbK546NTW_nWUAyxliDuCOdIJOWU9Kge0Q/viewform?usp=preview) <br>
 
 # 第17回
 日時: 2025/6/20 (金) 13:00-17:00 JST <br>
@@ -275,3 +265,12 @@ TBA<br>
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/)118教室 <br>
 概要: <br>
 この講義では、物理系の学科の出身者など統計学の体系的なコースを受講されたことのない方を主な対象として、統計学の基本的な内容を、その考え方を中心に俯瞰することを目指します。前半では母集団と標本など、古典的推測統計の枠組みを整理し、どのような前提のなかでモデルを推定しているのか、またその不確実性をどのように扱うのかということを説明します。後半では予測の科学としての統計学に焦点を移し、機械学習的との接続を意識しながら、将来の未知のデータにおけるモデルの活用の観点から性能評価やモデル選択の考え方を概観します。 <br>
+
+# 第14回
+日時: 2025/4/21 (月) 13:00-17:00 JST <br>
+講師: 田中 章詞 (理研AIP) <br>
+講演題目: 機械学習と深層学習の実践入門 <br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
+概要: <br>
+本講義では、Python を用いた主要な機械学習ライブラリである scikit-learn、Keras、TensorFlow、PyTorch、JAX の特徴と使い方を説明します。​各ライブラリの強みや適用例を理解するために実践的なコード演習を通じて説明する予定です。​講義は [https://github.com/AkinoriTanaka-phys/cs4mathphys/blob/main/python_and_ml/TOC.md](https://github.com/AkinoriTanaka-phys/cs4mathphys/blob/main/python_and_ml/TOC.md) の section3 をなぞってゆく予定です。Python やそのライブラリに詳しくない方は事前に section1 と section2 を読んでおいていただくと、ある程度スムーズに理解できると思います。<br>

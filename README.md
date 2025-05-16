@@ -69,7 +69,9 @@
 開催方法: 対面とオンラインのハイブリッド <br>
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
 概要: <br>
-TBA<br>
+前回の板書編での内容を踏まえ、状態のないケースから2次元のグリッドワールド環境を動くケース、最後に簡単な対戦ゲームの環境で強化学習を実際に動かします。強化学習手法としては、初めにモンテカルロ法からはじめ、TD学習と呼ばれる強化学習ならではのモンテカルロ法による訓練手法を紹介するまでが目標です。講義に使うノートは https://github.com/AkinoriTanaka-phys/cs4mathphys/blob/main/python_and_ml/TOC.md の付録に追加予定です。<br>
+
+**!!!本講義では、Python を用いた実習を行います。当日はご自身の環境や Google Colab 等で Python を使用できるよう、ご準備をお願いいたします。!!!**
 
 [[第15回・第16回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLScJFSkLA51XnJIulbK546NTW_nWUAyxliDuCOdIJOWU9Kge0Q/viewform?usp=preview) <br>
 

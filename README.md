@@ -252,6 +252,7 @@ TBA<br>
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
 概要: <br>
 本講義では、Python を用いた主要な機械学習ライブラリである scikit-learn、Keras、TensorFlow、PyTorch、JAX の特徴と使い方を説明します。​各ライブラリの強みや適用例を理解するために実践的なコード演習を通じて説明する予定です。​講義は [https://github.com/AkinoriTanaka-phys/cs4mathphys/blob/main/python_and_ml/TOC.md](https://github.com/AkinoriTanaka-phys/cs4mathphys/blob/main/python_and_ml/TOC.md) の section3 をなぞってゆく予定です。Python やそのライブラリに詳しくない方は事前に section1 と section2 を読んでおいていただくと、ある程度スムーズに理解できると思います。<br>
+[[動画]](https://www.youtube.com/playlist?list=PLqbAObo2uCdGCGhGqs8PGoAQfYda60ls5)
 
 # 第15回
 日時: 2025/5/12 (月) 13:00-17:00 JST <br>

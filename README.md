@@ -62,19 +62,6 @@
 
 <br>
 
-# 第16回
-日時: 2025/5/19 (月) 13:00-17:00 JST <br>
-講師: 田中 章詞 (理研AIP) <br>
-講演題目: 強化学習入門（実装編）<br>
-開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
-概要: <br>
-前回の板書編での内容を踏まえ、状態のないケースから2次元のグリッドワールド環境を動くケース、最後に簡単な対戦ゲームの環境で強化学習を実際に動かします。強化学習手法としては、初めにモンテカルロ法からはじめ、TD学習と呼ばれる強化学習ならではのモンテカルロ法による訓練手法を紹介するまでが目標です。講義に使うノートは [https://github.com/AkinoriTanaka-phys/cs4mathphys/blob/main/python_and_ml/TOC.md](https://github.com/AkinoriTanaka-phys/cs4mathphys/blob/main/python_and_ml/TOC.md) の付録に追加予定です。<br>
-
-**!!!本講義では、Python を用いた実習を行います。当日はご自身の環境や Google Colab 等で Python を使用できるよう、ご準備をお願いいたします。!!!**
-
-[[第15回・第16回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLScJFSkLA51XnJIulbK546NTW_nWUAyxliDuCOdIJOWU9Kge0Q/viewform?usp=preview) <br>
-
 # 第17回
 日時: 2025/6/20 (金) 13:00-17:00 JST <br>
 講師: 野村 悠祐 (東北大) <br>
@@ -275,3 +262,12 @@ TBA<br>
 概要: <br>
 強化学習はいわばモデルが自分でデータを取りに行くところまで考慮に入れた学習パラダイムで、データへの当てはめを目的とした機械学習パラダイムと合わせて近年でもよく使われるアプローチです。強化学習は今後ますます重要な技術になっていくと私は考えていますが、それを理解して使うためには少し学習障壁が高いような気がしています。そこで本講義では簡単なセットアップから始めて、最新の強化学習手法を使えるようになるために必要な数学の背景を解説したいと思います。次回の実装編はここでの内容を踏まえたものになる予定です。<br>
 [[板書]](./RL.pdf)
+
+# 第16回
+日時: 2025/5/19 (月) 13:00-17:00 JST <br>
+講師: 田中 章詞 (理研AIP) <br>
+講演題目: 強化学習入門（実装編）<br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
+概要: <br>
+前回の板書編での内容を踏まえ、状態のないケースから2次元のグリッドワールド環境を動くケース、最後に簡単な対戦ゲームの環境で強化学習を実際に動かします。強化学習手法としては、初めにモンテカルロ法からはじめ、TD学習と呼ばれる強化学習ならではのモンテカルロ法による訓練手法を紹介するまでが目標です。講義に使うノートは [https://github.com/AkinoriTanaka-phys/cs4mathphys/blob/main/python_and_ml/TOC.md](https://github.com/AkinoriTanaka-phys/cs4mathphys/blob/main/python_and_ml/TOC.md) の付録に追加予定です。<br>

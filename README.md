@@ -69,7 +69,9 @@
 開催方法: 対面とオンラインのハイブリッド <br>
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) <span style="color: red;">**116講義室 !!!いつもと講義室が異なります!!!**</span> <br>
 概要: <br>
-TBA<br>
+2024年のノーベル物理学賞の scientific background [（https://www.nobelprize.org/uploads/2024/11/advanced-physicsprize2024-3.pdf）](https://www.nobelprize.org/uploads/2024/11/advanced-physicsprize2024-3.pdf) の中に
+”In some applications, ANNs are employed as a function approximator [36]; i.e. the ANNs are used to provide a “copycat” for the physics model in question. This can significantly reduce the computational resources required, thereby allowing larger systems to be probed at higher resolution. Significant advances have been achieved in this way, e.g. for quantum-mechanical many-body problems [37-39].”
+という文言があります。本講演では、ここで言及されている、人工ニューラルネットワークの関数近似器としての活用、特に、引用文献[38] "G. Carleo and M. Troyer, Science 355, 602 (2017)"で導入された量子多体波動関数の人工ニューラルネットワーク表現を中心に、機械学習手法の量子多体問題への応用に関してお話ししたいと思います。<br>
 
 [[第17回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSc9lMLyss4vC5l7pTEp16x80aeRT_7mU3rdXvcX99azATEwOg/viewform?usp=dialog) <br>
 

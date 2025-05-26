@@ -65,11 +65,13 @@
 # 第17回
 日時: 2025/6/20 (金) 13:00-17:00 JST <br>
 講師: 野村 悠祐 (東北大) <br>
-講演題目: 機械学習の量子多体問題への応用 (仮) <br>
+講演題目: 機械学習の量子多体問題への応用 <br>
 開催方法: 対面とオンラインのハイブリッド <br>
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) <span style="color: red;">**116講義室 !!!いつもと講義室が異なります!!!**</span> <br>
 概要: <br>
 TBA<br>
+
+[[第17回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSc9lMLyss4vC5l7pTEp16x80aeRT_7mU3rdXvcX99azATEwOg/viewform?usp=dialog) <br>
 
 <br>
 

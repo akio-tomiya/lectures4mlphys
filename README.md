@@ -62,21 +62,6 @@
 
 <br>
 
-# 第17回
-日時: 2025/6/20 (金) 13:00-17:00 JST <br>
-講師: 野村 悠祐 (東北大) <br>
-講演題目: 機械学習の量子多体問題への応用 <br>
-開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) <span style="color: red;">**116講義室 !!!いつもと講義室が異なります!!!**</span> <br>
-概要: <br>
-2024年のノーベル物理学賞の scientific background [（https://www.nobelprize.org/uploads/2024/11/advanced-physicsprize2024-3.pdf）](https://www.nobelprize.org/uploads/2024/11/advanced-physicsprize2024-3.pdf) の中に
-”In some applications, ANNs are employed as a function approximator [36]; i.e. the ANNs are used to provide a “copycat” for the physics model in question. This can significantly reduce the computational resources required, thereby allowing larger systems to be probed at higher resolution. Significant advances have been achieved in this way, e.g. for quantum-mechanical many-body problems [37-39].”
-という文言があります。本講演では、ここで言及されている、人工ニューラルネットワークの関数近似器としての活用、特に、引用文献[38] "G. Carleo and M. Troyer, Science 355, 602 (2017)"で導入された量子多体波動関数の人工ニューラルネットワーク表現を中心に、機械学習手法の量子多体問題への応用に関してお話ししたいと思います。<br>
-
-[[第17回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSc9lMLyss4vC5l7pTEp16x80aeRT_7mU3rdXvcX99azATEwOg/viewform?usp=dialog) <br>
-
-<br>
-
 今後の講義につきましては、決定次第、ML等でご連絡します。
 
 # <終了した講義>
@@ -276,3 +261,18 @@
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
 概要: <br>
 前回の板書編での内容を踏まえ、状態のないケースから2次元のグリッドワールド環境を動くケース、最後に簡単な対戦ゲームの環境で強化学習を実際に動かします。強化学習手法としては、初めにモンテカルロ法からはじめ、TD学習と呼ばれる強化学習ならではのモンテカルロ法による訓練手法を紹介するまでが目標です。講義に使うノートは [https://github.com/AkinoriTanaka-phys/cs4mathphys/blob/main/python_and_ml/TOC.md](https://github.com/AkinoriTanaka-phys/cs4mathphys/blob/main/python_and_ml/TOC.md) の付録に追加予定です。<br>
+
+# 第17回
+日時: 2025/6/20 (金) 13:00-17:00 JST <br>
+講師: 野村 悠祐 (東北大) <br>
+講演題目: 機械学習の量子多体問題への応用 <br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) <span style="color: red;">**116講義室 !!!いつもと講義室が異なります!!!**</span> <br>
+概要: <br>
+2024年のノーベル物理学賞の scientific background [（https://www.nobelprize.org/uploads/2024/11/advanced-physicsprize2024-3.pdf）](https://www.nobelprize.org/uploads/2024/11/advanced-physicsprize2024-3.pdf) の中に
+”In some applications, ANNs are employed as a function approximator [36]; i.e. the ANNs are used to provide a “copycat” for the physics model in question. This can significantly reduce the computational resources required, thereby allowing larger systems to be probed at higher resolution. Significant advances have been achieved in this way, e.g. for quantum-mechanical many-body problems [37-39].”
+という文言があります。本講演では、ここで言及されている、人工ニューラルネットワークの関数近似器としての活用、特に、引用文献[38] "G. Carleo and M. Troyer, Science 355, 602 (2017)"で導入された量子多体波動関数の人工ニューラルネットワーク表現を中心に、機械学習手法の量子多体問題への応用に関してお話ししたいと思います。<br>
+[[講義資料1]](./講義資料1.pdf)
+[[講義資料2]](./講義資料2.pdf)
+[[講義資料3]](./講義資料3.pdf)
+[[実習用資料]](./実習用資料.pdf)

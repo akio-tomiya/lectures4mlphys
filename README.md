@@ -68,6 +68,15 @@
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
 概要: TBA <br>
 
+# 第19回
+日時: 2025/11/21 (金) 13:00-17:00 JST <br>
+講師: Lingxiao Wang (RIKEN iTHEMS) <br>
+講演題目: TBA <br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) **116講義室** <br>
+概要: TBA <br>
+(*) **英語での講義になります。** <br>
+
 <br>
 
 今後の講義につきましては、決定次第、ML等でご連絡します。

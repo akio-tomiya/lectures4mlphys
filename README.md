@@ -68,6 +68,8 @@
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
 概要: TBA <br>
 
+[[第18回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSew5OCtY2Kp0ez-ue3_pwuwWaeotlTNu8cleriCT0rMsdgWPw/viewform?usp=header) <br>
+
 # 第19回
 日時: 2025/11/21 (金) 13:00-17:00 JST <br>
 講師: Lingxiao Wang (RIKEN iTHEMS) <br>

@@ -73,7 +73,7 @@
 # 第19回
 日時: 2025/11/21 (金) 13:00-17:00 JST <br>
 講師: Lingxiao Wang (RIKEN iTHEMS) <br>
-講演題目: TBA <br>
+講演題目: Diffusion Models for Lattice Field Theory (仮) <br>
 開催方法: 対面とオンラインのハイブリッド <br>
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) **116講義室** <br>
 概要: TBA <br>

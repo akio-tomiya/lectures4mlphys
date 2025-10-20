@@ -81,6 +81,8 @@
 概要: TBA <br>
 (*) **英語での講義になります。** <br>
 
+[[第19回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSfvAoXiRGKGwrrLY_ajFHAJUCEW4_QbGgj7LFdLizSess_rZg/viewform?usp=header) <br>
+
 <br>
 
 今後の講義につきましては、決定次第、ML等でご連絡します。

@@ -63,10 +63,11 @@
 # 第19回
 日時: 2025/11/21 (金) 13:00-17:00 JST <br>
 講師: Lingxiao Wang (RIKEN iTHEMS) <br>
-講演題目: Diffusion Models for Lattice Field Theory (仮) <br>
+講演題目: Diffusion Models in Lattice Field Simulations <br>
 開催方法: 対面とオンラインのハイブリッド <br>
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) **116講義室** <br>
-概要: TBA <br>
+概要: <br>
+This lecture explores diffusion models through the lens of physics. We begin with their foundations in stochastic quantization and effective actions, then demonstrate how these ideas enable the generation of lattice fields, including scalar and gauge fields. Emphasis will be placed on the expandability, exactness, and efficiency (3E) of diffusion-based generations. The session concludes with an outlook on how diffusion models can bridge machine learning and theoretical physics, offering new tools for high-dimensional sampling and simulation. <br>
 (*) **英語での講義になります。** <br>
 
 [[第19回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSfvAoXiRGKGwrrLY_ajFHAJUCEW4_QbGgj7LFdLizSess_rZg/viewform?usp=header) <br>

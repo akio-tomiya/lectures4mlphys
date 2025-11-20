@@ -70,8 +70,6 @@
 This lecture explores diffusion models through the lens of physics. We begin with their foundations in stochastic quantization and effective actions, then demonstrate how these ideas enable the generation of lattice fields, including scalar and gauge fields. Emphasis will be placed on the expandability, exactness, and efficiency (3E) of diffusion-based generations. The session concludes with an outlook on how diffusion models can bridge machine learning and theoretical physics, offering new tools for high-dimensional sampling and simulation. <br>
 (*) **英語での講義になります。** <br>
 
-[[第19回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSfvAoXiRGKGwrrLY_ajFHAJUCEW4_QbGgj7LFdLizSess_rZg/viewform?usp=header) <br>
-
 # 第20回
 日時: 2026/1/9 (金) 13:00-17:00 JST <br>
 講師: 大谷 真也 (株式会社ABEJA) <br>

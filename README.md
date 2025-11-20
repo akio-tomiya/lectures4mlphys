@@ -79,6 +79,8 @@ This lecture explores diffusion models through the lens of physics. We begin wit
 概要: TBA <br>
 (*) **本講義では Google Colab を用いた演習を行います。Google アカウント等、Google Colab の利用に必要なご準備をお願いいたします。** <br>
 
+[[第20回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSfxcgYFVI7WQzj_bmh-6lrXke_fNgrl8n2s_Z9hYNgGznhdHg/viewform?usp=publish-editor) <br>
+
 <br>
 
 今後の講義につきましては、決定次第、ML等でご連絡します。

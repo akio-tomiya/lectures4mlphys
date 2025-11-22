@@ -60,16 +60,6 @@
 [[第x回参加登録フォーム]]() <br>
 -->
 
-# 第19回
-日時: 2025/11/21 (金) 13:00-17:00 JST <br>
-講師: Lingxiao Wang (RIKEN iTHEMS) <br>
-講演題目: Diffusion Models in Lattice Field Simulations <br>
-開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) **116講義室** <br>
-概要: <br>
-This lecture explores diffusion models through the lens of physics. We begin with their foundations in stochastic quantization and effective actions, then demonstrate how these ideas enable the generation of lattice fields, including scalar and gauge fields. Emphasis will be placed on the expandability, exactness, and efficiency (3E) of diffusion-based generations. The session concludes with an outlook on how diffusion models can bridge machine learning and theoretical physics, offering new tools for high-dimensional sampling and simulation. <br>
-(*) **英語での講義になります。** <br>
-
 # 第20回
 日時: 2026/1/9 (金) 13:00-17:00 JST <br>
 講師: 大谷 真也 (株式会社ABEJA) <br>
@@ -299,6 +289,7 @@ This lecture explores diffusion models through the lens of physics. We begin wit
 [[講義資料2]](./講義資料2.pdf)
 [[講義資料3]](./講義資料3.pdf)
 [[実習用資料]](./実習用資料.pdf)
+[[動画]](https://www.youtube.com/playlist?list=PLqbAObo2uCdFCldMDIYA9CV0CCqmQOsVZ)
 
 # 第18回
 日時: 2025/10/31 (金) 13:00-17:00 JST <br>
@@ -309,3 +300,13 @@ This lecture explores diffusion models through the lens of physics. We begin wit
 概要: <br>
 ある入力された物質のエネルギーをそれを構成する原子の三次元空間上の位置から計算する関数のことを原子間ポテンシャルといいます。原子間ポテンシャルは、原子分子レベルでのシミュレーションを支える基盤となるものですが、長らく系に特化したものを職人技で作るしかありませんでした。近年、機械学習の発展にともない、この状況が大きくかわりつつあります。広範な物質に適用可能な「汎用な」原子間ポテンシャルがいくつも構築されるようになってきたのです。<br>
 人工ニューラルネットワークに基づく汎用原子間ポテンシャルは、ミクロなスケールでの化学･材料シミュレーションの基盤モデルとして注目を集めており、情報・化学･物理という複数の分野が交差するホットな研究領域にもなっています。本講義では、原子間ポテンシャルとは何か、その歴史から初め、人工ニューラルネットワークの出現が如何にゲームを変え、汎用なモデルが出現したのかを、残された課題と展望も踏まえて、予備知識がない方にもわかるよう基礎から説明します。<br>
+
+# 第19回
+日時: 2025/11/21 (金) 13:00-17:00 JST <br>
+講師: Lingxiao Wang (RIKEN iTHEMS) <br>
+講演題目: Diffusion Models in Lattice Field Simulations <br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) **116講義室** <br>
+概要: <br>
+This lecture explores diffusion models through the lens of physics. We begin with their foundations in stochastic quantization and effective actions, then demonstrate how these ideas enable the generation of lattice fields, including scalar and gauge fields. Emphasis will be placed on the expandability, exactness, and efficiency (3E) of diffusion-based generations. The session concludes with an outlook on how diffusion models can bridge machine learning and theoretical physics, offering new tools for high-dimensional sampling and simulation. <br>
+(*) **英語での講義になります。** <br>

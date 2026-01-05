@@ -219,7 +219,7 @@
 講師: 大林 一平 (岡山大学) <br>
 講演題目: パーシステントホモロジーの基本と材料科学への応用 <br>
 開催方法: 対面とオンラインのハイブリッド <br>
-場所: [京都大学理学研究科セミナーハウス](https://sci.kyoto-u.ac.jp/ja/map)大ホール (**!!!いつもと会場が異なります!!!**) <br>
+場所: [京都大学理学研究科セミナーハウス](https://sci.kyoto-u.ac.jp/ja/map)大ホール <br>
 概要: <br>
 パーシステントホモロジーは数学のトポロジーのアイデアを応用し，データの
 形を特徴付けるための数学的ツールである。既に材料科学や構造生物学などで
@@ -282,7 +282,7 @@
 講師: 野村 悠祐 (東北大) <br>
 講演題目: 機械学習の量子多体問題への応用 <br>
 開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) <span style="color: red;">**116講義室 !!!いつもと講義室が異なります!!!**</span> <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) **116講義室** <br>
 概要: <br>
 2024年のノーベル物理学賞の scientific background [（https://www.nobelprize.org/uploads/2024/11/advanced-physicsprize2024-3.pdf）](https://www.nobelprize.org/uploads/2024/11/advanced-physicsprize2024-3.pdf) の中に
 ”In some applications, ANNs are employed as a function approximator [36]; i.e. the ANNs are used to provide a “copycat” for the physics model in question. This can significantly reduce the computational resources required, thereby allowing larger systems to be probed at higher resolution. Significant advances have been achieved in this way, e.g. for quantum-mechanical many-body problems [37-39].”

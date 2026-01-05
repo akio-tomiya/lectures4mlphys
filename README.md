@@ -63,10 +63,12 @@
 # 第20回
 日時: 2026/1/9 (金) 13:00-17:00 JST <br>
 講師: 大谷 真也 (株式会社ABEJA) <br>
-講演題目: 作って理解する日本語特化の大規模言語モデル (仮) <br>
+講演題目: 作って理解する日本語特化の大規模言語モデル <br>
 開催方法: 対面とオンラインのハイブリッド <br>
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
-概要: TBA <br>
+概要: <br>
+本講義では、日本語特化の大規模言語モデル（LLM）を題材に、仕組みを「作って理解する」ことを目的とします。LLMの基本原理から、プロンプト設計、RAGやAgentによる拡張、学習プロセス（事前学習・SFT・強化学習・DPO）までを体系的に解説し、実際に推論や学習を動かすことで、LLM開発を手触りを持って理解していくという講義にしていく予定です。<br>
+
 (*) **本講義では Google Colab を用いた演習を行います。Google アカウント等、Google Colab の利用に必要なご準備をお願いいたします。** <br>
 
 [[第20回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSfxcgYFVI7WQzj_bmh-6lrXke_fNgrl8n2s_Z9hYNgGznhdHg/viewform?usp=publish-editor) <br>

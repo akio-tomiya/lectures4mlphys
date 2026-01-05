@@ -282,7 +282,7 @@
 講師: 野村 悠祐 (東北大) <br>
 講演題目: 機械学習の量子多体問題への応用 <br>
 開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) **116講義室** <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 116講義室 <br>
 概要: <br>
 2024年のノーベル物理学賞の scientific background [（https://www.nobelprize.org/uploads/2024/11/advanced-physicsprize2024-3.pdf）](https://www.nobelprize.org/uploads/2024/11/advanced-physicsprize2024-3.pdf) の中に
 ”In some applications, ANNs are employed as a function approximator [36]; i.e. the ANNs are used to provide a “copycat” for the physics model in question. This can significantly reduce the computational resources required, thereby allowing larger systems to be probed at higher resolution. Significant advances have been achieved in this way, e.g. for quantum-mechanical many-body problems [37-39].”
@@ -308,6 +308,6 @@
 講師: Lingxiao Wang (RIKEN iTHEMS) <br>
 講演題目: Diffusion Models in Lattice Field Simulations <br>
 開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) **116講義室** <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 116講義室 <br>
 概要: <br>
 This lecture explores diffusion models through the lens of physics. We begin with their foundations in stochastic quantization and effective actions, then demonstrate how these ideas enable the generation of lattice fields, including scalar and gauge fields. Emphasis will be placed on the expandability, exactness, and efficiency (3E) of diffusion-based generations. The session concludes with an outlook on how diffusion models can bridge machine learning and theoretical physics, offering new tools for high-dimensional sampling and simulation. <br>

@@ -60,19 +60,6 @@
 [[第x回参加登録フォーム]]() <br>
 -->
 
-# 第20回
-日時: 2026/1/9 (金) 13:00-17:00 JST <br>
-講師: 大谷 真也 (株式会社ABEJA) <br>
-講演題目: 作って理解する日本語特化の大規模言語モデル <br>
-開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
-概要: <br>
-本講義では、日本語特化の大規模言語モデル（LLM）を題材に、仕組みを「作って理解する」ことを目的とします。LLMの基本原理から、プロンプト設計、RAGやAgentによる拡張、学習プロセス（事前学習・SFT・強化学習・DPO）までを体系的に解説し、実際に推論や学習を動かすことで、LLM開発を手触りを持って理解していくという講義にしていく予定です。<br>
-
-(*) **本講義では Google Colab を用いた演習を行います。Google アカウント等、Google Colab の利用に必要なご準備をお願いいたします。** <br>
-
-[[第20回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSfxcgYFVI7WQzj_bmh-6lrXke_fNgrl8n2s_Z9hYNgGznhdHg/viewform?usp=publish-editor) <br>
-
 <br>
 
 今後の講義につきましては、決定次第、ML等でご連絡します。
@@ -311,3 +298,12 @@
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 116講義室 <br>
 概要: <br>
 This lecture explores diffusion models through the lens of physics. We begin with their foundations in stochastic quantization and effective actions, then demonstrate how these ideas enable the generation of lattice fields, including scalar and gauge fields. Emphasis will be placed on the expandability, exactness, and efficiency (3E) of diffusion-based generations. The session concludes with an outlook on how diffusion models can bridge machine learning and theoretical physics, offering new tools for high-dimensional sampling and simulation. <br>
+
+# 第20回
+日時: 2026/1/9 (金) 13:00-17:00 JST <br>
+講師: 大谷 真也 (株式会社ABEJA) <br>
+講演題目: 作って理解する日本語特化の大規模言語モデル <br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
+概要: <br>
+本講義では、日本語特化の大規模言語モデル（LLM）を題材に、仕組みを「作って理解する」ことを目的とします。LLMの基本原理から、プロンプト設計、RAGやAgentによる拡張、学習プロセス（事前学習・SFT・強化学習・DPO）までを体系的に解説し、実際に推論や学習を動かすことで、LLM開発を手触りを持って理解していくという講義にしていく予定です。<br>

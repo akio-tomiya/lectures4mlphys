@@ -60,6 +60,16 @@
 [[第x回参加登録フォーム]]() <br>
 -->
 
+# 第21回
+日時: 2026/5/18 (月) 13:00-17:00 JST <br>
+講師: 棚橋 典大 (京都大学) <br>
+講演題目: 機械学習による数値計算と理論物理への応用 (仮) <br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
+概要: TBA <br>
+
+[[第21回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSeS1dFKuvvLbCg7AHuPYFHepH7wzHWM6ayJLiMo3gvO1zwt7A/viewform) <br>
+
 <br>
 
 今後の講義につきましては、決定次第、ML等でご連絡します。

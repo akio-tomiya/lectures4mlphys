@@ -70,7 +70,7 @@
 近年、機械学習は自然科学の様々な分野で利用されるようになっています。その活用法の一つに、機械学習を数値計算手法として用いる Physics-Informed Neural Network (PINN) があり、汎用性・柔軟性・手軽さなどの観点から注目されています。本講義では、機械学習を微分方程式ソルバーとして用いる PINN
 の手法と、その理論物理への応用の可能性について、機械学習の基礎とともに紹介します。通常の数値解法との違いや本手法の特長・注意点、さらに理論物理に現れる、境界条件の扱いが重要となる微分方程式の問題などを例にとり、具体的な研究への応用可能性を議論します。
 
-**本講義ではハンズオンを予定しております。Google Colab など Jupyter Notebook を使える環境をご用意ください。**
+**本講義ではハンズオンを予定しております。Google Colab など Jupyter Notebook を使える環境をご用意ください。また、現地参加の方は、インターネット接続に eduroam が利用可能です。eduroam が利用できない方にはゲスト Wi-Fi アカウントを発行いたします。**
 
 [[第21回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSeS1dFKuvvLbCg7AHuPYFHepH7wzHWM6ayJLiMo3gvO1zwt7A/viewform) <br>
 

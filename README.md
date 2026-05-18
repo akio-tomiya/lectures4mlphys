@@ -60,21 +60,6 @@
 [[第x回参加登録フォーム]]() <br>
 -->
 
-# 第21回
-日時: 2026/5/18 (月) 13:00-17:00 JST <br>
-講師: 棚橋 典大 (京都大学) <br>
-講演題目: 機械学習による数値計算と理論物理への応用 <br>
-開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
-概要: <br>
-近年、機械学習は自然科学の様々な分野で利用されるようになっています。その活用法の一つに、機械学習を数値計算手法として用いる Physics-Informed Neural Network (PINN) があり、汎用性・柔軟性・手軽さなどの観点から注目されています。本講義では、機械学習を微分方程式ソルバーとして用いる PINN
-の手法と、その理論物理への応用の可能性について、機械学習の基礎とともに紹介します。通常の数値解法との違いや本手法の特長・注意点、さらに理論物理に現れる、境界条件の扱いが重要となる微分方程式の問題などを例にとり、具体的な研究への応用可能性を議論します。 <br>
-[[講義資料]](https://drive.google.com/drive/folders/1AilONmc3elL8BEX4xsXYt31OXDrhMZGs?usp=drive_link)
-
-**本講義ではハンズオンを予定しております。Google Colab など Jupyter Notebook を使える環境をご用意ください。また、現地参加の方は、インターネット接続に eduroam が利用可能です。eduroam が利用できない方にはゲスト Wi-Fi アカウントを発行いたします。**
-
-[[第21回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSeS1dFKuvvLbCg7AHuPYFHepH7wzHWM6ayJLiMo3gvO1zwt7A/viewform) <br>
-
 <br>
 
 今後の講義につきましては、決定次第、ML等でご連絡します。
@@ -322,3 +307,15 @@ This lecture explores diffusion models through the lens of physics. We begin wit
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
 概要: <br>
 本講義では、日本語特化の大規模言語モデル（LLM）を題材に、仕組みを「作って理解する」ことを目的とします。LLMの基本原理から、プロンプト設計、RAGやAgentによる拡張、学習プロセス（事前学習・SFT・強化学習・DPO）までを体系的に解説し、実際に推論や学習を動かすことで、LLM開発を手触りを持って理解していくという講義にしていく予定です。<br>
+
+# 第21回
+日時: 2026/5/18 (月) 13:00-17:00 JST <br>
+講師: 棚橋 典大 (京都大学) <br>
+講演題目: 機械学習による数値計算と理論物理への応用 <br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
+概要: <br>
+近年、機械学習は自然科学の様々な分野で利用されるようになっています。その活用法の一つに、機械学習を数値計算手法として用いる Physics-Informed Neural Network (PINN) があり、汎用性・柔軟性・手軽さなどの観点から注目されています。本講義では、機械学習を微分方程式ソルバーとして用いる PINN
+の手法と、その理論物理への応用の可能性について、機械学習の基礎とともに紹介します。通常の数値解法との違いや本手法の特長・注意点、さらに理論物理に現れる、境界条件の扱いが重要となる微分方程式の問題などを例にとり、具体的な研究への応用可能性を議論します。
+<br>
+[[講義資料]](https://drive.google.com/drive/folders/1AilONmc3elL8BEX4xsXYt31OXDrhMZGs?usp=drive_link)

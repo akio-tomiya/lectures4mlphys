@@ -79,11 +79,11 @@
 
 一方で，研究コードでは，数値的正しさ，再現性，性能，依存関係管理，長期保守性が重要である．本講義では，物理・機械学習研究における日常的なコード開発を題材に，AI coding agent を安全に使うためのワークフローを概観する．特に Rust の型システム，所有権，テスト，パッケージ管理を利用することで，AI が生成したコードを人間が検証しやすく，壊れにくい研究ソフトウェアへ効率よく育てる方法を紹介する．後半では，簡単な数値計算コードを題材に，AI coding agent と Rust を用いた実装，テストなどをハンズオン形式で体験する．
 
-講義資料は，講義の1週間前までを目処に以下の URL で公開する．
+ハンズオンの事前準備を含めた講義資料は，講義の1週間前までを目処に以下の URL で公開する．
 
 [https://shinaoka.github.io/docs/agentic-ai-coding-rust](https://shinaoka.github.io/docs/agentic-ai-coding-rust)
 
-**本講義ではハンズオンを予定しております。現地参加される方は、PC をご持参ください。また、インターネット接続に eduroam が利用可能です。eduroam が利用できない方にはゲスト Wi-Fi アカウントを発行いたします。**
+**本講義ではハンズオンを予定しております。当日までに事前準備をお願いいたします。また、現地参加される方は、事前準備が完了した PC をご持参ください。インターネット接続に eduroam が利用可能です。eduroam が利用できない方にはゲスト Wi-Fi アカウントを発行いたします。**
 
 [[第22回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLScHpCoyaiVBU6m0I3rGDEZ2himIyMtOR8LWI3OhJomfikVhRQ/viewform?usp=publish-editor) <br>
 

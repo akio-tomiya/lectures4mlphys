@@ -66,7 +66,24 @@
 講演題目: Agentic AI Coding × Rust: 安全に速く研究コードを書く <br>
 開催方法: 対面とオンラインのハイブリッド <br>
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
-概要: TBA <br>
+概要: <br>
+近年の大規模言語モデルは，コード補完を超えて，仕様の整理，実装，テスト，デバッグ，リファクタリングを反復的に行う “agentic AI coding” の段階に入りつつある．講師自身もこの半年，手動でコードはほとんど書いておらず，テンソルネットワークに基づく機械学習的アプローチの物理への応用に向けて，AI coding agent とともに新しいソフトウェアスタックを開発している．関連する開発例として，以下がある．
+
+* tenferro-rs: 自動微分と CPU/GPU 対応を備えた汎用テンソル計算Rustライブラリ
+
+  https://github.com/tensor4all/tenferro-rs
+
+* tensor4all-rs: tensor4All のテンソルネットワークエコシステムの Rust実装
+
+  https://github.com/tensor4all/tensor4all-rs
+
+一方で，研究コードでは，数値的正しさ，再現性，性能，依存関係管理，長期保守性が重要である．本講義では，物理・機械学習研究における日常的なコード開発を題材に，AI coding agent を安全に使うためのワークフローを概観する．特に Rust の型システム，所有権，テスト，パッケージ管理を利用することで，AI が生成したコードを人間が検証しやすく，壊れにくい研究ソフトウェアへ効率よく育てる方法を紹介する．後半では，簡単な数値計算コードを題材に，AI coding agent と Rust を用いた実装，テストなどをハンズオン形式で体験する．
+
+講義資料は，講義の1週間前までを目処に以下の URL で公開する．
+
+https://shinaoka.github.io/docs/agentic-ai-coding-rust
+
+**本講義ではハンズオンを予定しております。現地参加される方は、PC をご持参ください。また、インターネット接続に eduroam が利用可能です。eduroam が利用できない方にはゲスト Wi-Fi アカウントを発行いたします。**
 
 [[第22回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLScHpCoyaiVBU6m0I3rGDEZ2himIyMtOR8LWI3OhJomfikVhRQ/viewform?usp=publish-editor) <br>
 

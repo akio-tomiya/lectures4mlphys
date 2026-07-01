@@ -60,40 +60,24 @@
 [[第x回参加登録フォーム]]() <br>
 -->
 
-# 第22回
-日時: 2026/6/26 (金) 13:00-17:00 JST <br>
-講師: 品岡 寛 (埼玉大学) <br>
-講演題目: Agentic AI Coding × Rust: 安全に速く研究コードを書く <br>
-開催方法: 対面とオンラインのハイブリッド <br>
-場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
-概要: <br>
-近年の大規模言語モデルは，コード補完を超えて，仕様の整理，実装，テスト，デバッグ，リファクタリングを反復的に行う “agentic AI coding” の段階に入りつつある．講師自身もこの半年，手動でコードはほとんど書いておらず，テンソルネットワークに基づく機械学習的アプローチの物理への応用に向けて，AI coding agent とともに新しいソフトウェアスタックを開発している．関連する開発例として，以下がある．
-
-* tenferro-rs: 自動微分と CPU/GPU 対応を備えた汎用テンソル計算Rustライブラリ
-
-  [https://github.com/tensor4all/tenferro-rs](https://github.com/tensor4all/tenferro-rs)
-
-* tensor4all-rs: tensor4All のテンソルネットワークエコシステムの Rust実装
-
-  [https://github.com/tensor4all/tensor4all-rs](https://github.com/tensor4all/tensor4all-rs)
-
-一方で，研究コードでは，数値的正しさ，再現性，性能，依存関係管理，長期保守性が重要である．本講義では，物理・機械学習研究における日常的なコード開発を題材に，AI coding agent を安全に使うためのワークフローを概観する．特に Rust の型システム，所有権，テスト，パッケージ管理を利用することで，AI が生成したコードを人間が検証しやすく，壊れにくい研究ソフトウェアへ効率よく育てる方法を紹介する．後半では，簡単な数値計算コードを題材に，AI coding agent と Rust を用いた実装，テストなどをハンズオン形式で体験する．
-
-ハンズオンの事前準備を含めた講義資料は，講義の1週間前までを目処に以下の URL で公開する．
-
-[https://shinaoka.github.io/docs/agentic-ai-coding-rust](https://shinaoka.github.io/docs/agentic-ai-coding-rust)
-
-**本講義ではハンズオンを予定しております。当日までに事前準備をお願いいたします。また、現地参加される方は、事前準備が完了した PC をご持参ください。インターネット接続に eduroam が利用可能です。eduroam が利用できない方にはゲスト Wi-Fi アカウントを発行いたします。**
-
-[[第22回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLScHpCoyaiVBU6m0I3rGDEZ2himIyMtOR8LWI3OhJomfikVhRQ/viewform?usp=publish-editor) <br>
-
 # 第23回
 日時: 2026/7/10 (金) 13:00-17:00 JST <br>
 講師: 吉藤 尚生 (テンストレントジャパン株式会社) <br>
-講演題目: AIパフォーマンスエンジニアリングの最前線 (仮) <br>
+講演題目: AIパフォーマンスエンジニアリングの最前線 <br>
 開催方法: 対面とオンラインのハイブリッド <br>
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) **116講義室 (いつもと会場が異なります)** <br>
-概要: TBA <br>
+概要: <br>
+近年、機械学習およびAIモデルの急速な大規模化・複雑化に伴い、計算資源を効率的に活用し処理を高速化するための「パフォーマンスエンジニアリング」の重要性がますます高まっています。本講義では、書籍『[実践的パフォーマンスエンジニアリングによるAI高速化](https://gihyo.jp/book/2026/978-4-297-15349-6)』の内容をベースに、AIパフォーマンスエンジニアリングの基礎から最前線までを概観します。
+
+まず前半では基礎編として、AIパフォーマンスエンジニアリングの歴史や全体像、そしてパフォーマンス計測およびパフォーマンス改善の基本的な手法について整理します。
+具体事例として大規模言語モデル（LLM）推論や自動運転AI推論も取り上げ、特に利用頻度の高いGPU上での実践的なパフォーマンスエンジアリング手法を解説します。
+
+後半では発展編として、現在のAIパフォーマンスエンジニアリングの最新状況および将来展望を紹介し、特に重要となる2つの具体的な方法論について紹介します。
+まずはじめに、異なるハードウェアアーキテクチャによるパフォーマンスエンジニアリング手法の違いを解説します。具体的には、オープンなアーキテクチャ（Tenstorrent Blackholeなど）上で前半の事例などを実行し、仕様がオープンであるからこそ可能になる、よりきめ細やかなパフォーマンスエンジニアリングの事例を紹介します。
+最後に、こうした高度なパフォーマンスエンジニアリングをAIエージェントに実行させる最新の取り組みについて触れ、オープンなアーキテクチャがいかに「今後のパフォーマンスエンジニアリング」と親和性が高いかを議論します。
+
+受講に際して書籍『[実践的パフォーマンスエンジニアリングによるAI高速化](https://gihyo.jp/book/2026/978-4-297-15349-6)』（技術評論社）は必須ではありませんが、事前に予習として目を通しておく、あるいは講義中に触れられなかった詳細について確認しながら受講すると、より理解を深めることができます。
+
 
 [[第23回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSdkToLitGYUn03Zz9sMDt7dfEJMZvUFL6O2d9zF6qmMdxX5-A/viewform?usp=publish-editor) <br>
 
@@ -356,3 +340,24 @@ This lecture explores diffusion models through the lens of physics. We begin wit
 の手法と、その理論物理への応用の可能性について、機械学習の基礎とともに紹介します。通常の数値解法との違いや本手法の特長・注意点、さらに理論物理に現れる、境界条件の扱いが重要となる微分方程式の問題などを例にとり、具体的な研究への応用可能性を議論します。
 <br>
 [[講義資料]](https://drive.google.com/drive/folders/1AilONmc3elL8BEX4xsXYt31OXDrhMZGs?usp=drive_link)
+
+# 第22回
+日時: 2026/6/26 (金) 13:00-17:00 JST <br>
+講師: 品岡 寛 (埼玉大学) <br>
+講演題目: Agentic AI Coding × Rust: 安全に速く研究コードを書く <br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
+概要: <br>
+近年の大規模言語モデルは，コード補完を超えて，仕様の整理，実装，テスト，デバッグ，リファクタリングを反復的に行う “agentic AI coding” の段階に入りつつある．講師自身もこの半年，手動でコードはほとんど書いておらず，テンソルネットワークに基づく機械学習的アプローチの物理への応用に向けて，AI coding agent とともに新しいソフトウェアスタックを開発している．関連する開発例として，以下がある．
+
+* tenferro-rs: 自動微分と CPU/GPU 対応を備えた汎用テンソル計算Rustライブラリ
+
+  [https://github.com/tensor4all/tenferro-rs](https://github.com/tensor4all/tenferro-rs)
+
+* tensor4all-rs: tensor4All のテンソルネットワークエコシステムの Rust実装
+
+  [https://github.com/tensor4all/tensor4all-rs](https://github.com/tensor4all/tensor4all-rs)
+
+一方で，研究コードでは，数値的正しさ，再現性，性能，依存関係管理，長期保守性が重要である．本講義では，物理・機械学習研究における日常的なコード開発を題材に，AI coding agent を安全に使うためのワークフローを概観する．特に Rust の型システム，所有権，テスト，パッケージ管理を利用することで，AI が生成したコードを人間が検証しやすく，壊れにくい研究ソフトウェアへ効率よく育てる方法を紹介する．後半では，簡単な数値計算コードを題材に，AI coding agent と Rust を用いた実装，テストなどをハンズオン形式で体験する．
+<br>
+[[講義資料]](https://shinaoka.github.io/docs/agentic-ai-coding-rust)

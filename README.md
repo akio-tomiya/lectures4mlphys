@@ -80,6 +80,22 @@
 
 [[第23回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSdkToLitGYUn03Zz9sMDt7dfEJMZvUFL6O2d9zF6qmMdxX5-A/viewform?usp=header) <br>
 
+# 第24回
+日時: 2026/11/6 (金) <br>
+講師: 甘利 俊一 (帝京大学) <br>
+講演題目: TBA (統計神経力学について) <br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
+概要: TBA <br>
+
+# 第25回
+日時: 2026/12/14 (月) 13:00-17:00 JST <br>
+講師: 宇田 智紀 (南山大学) <br>
+講演題目: TBA (Lean と AI agent を活用した研究について) <br>
+開催方法: 対面とオンラインのハイブリッド <br>
+場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
+概要: TBA <br>
+
 <br>
 
 今後の講義につきましては、決定次第、ML等でご連絡します。

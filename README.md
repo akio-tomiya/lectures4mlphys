@@ -81,12 +81,16 @@
 [[第23回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSdkToLitGYUn03Zz9sMDt7dfEJMZvUFL6O2d9zF6qmMdxX5-A/viewform?usp=header) <br>
 
 # 第24回
-日時: 2026/11/6 (金) <br>
+日時: 2026/11/6 (金) 13:00-17:00 JST <br>
 講師: 甘利 俊一 (帝京大学) <br>
-講演題目: TBA (統計神経力学について) <br>
+講演題目: 統計神経力学 <br>
 開催方法: 対面とオンラインのハイブリッド <br>
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/) 118講義室 <br>
-概要: TBA <br>
+概要: <br>
+大規模神経回路網は、現在のAI技術の中核をなす。しかしその挙動の解析は簡単ではない。本講義では、ランダムに結合した大規模深層新回路網を考え、その信号伝達の特性とそれと対をなす誤差の逆伝搬を巨視的な力学の観点から考察する。これは統計神経力学を構成するものであり、現在のAIの理論の貧困の状況に対して、新しい理論研究の方向を示唆するものと考える。<br>
+[[スライド]](./筑波大統計神経力学.pdf)
+
+[[第24回参加登録フォーム]](https://docs.google.com/forms/d/e/1FAIpQLSck83KIluDvhNl5L900XCoVaHo_mLBst9Vhh7J1h7I8YQwgOg/viewform?usp=dialog)
 
 # 第25回
 日時: 2026/12/14 (月) 13:00-17:00 JST <br>

@@ -144,10 +144,6 @@
 場所: [筑波大学東京キャンパス](https://www.office.otsuka.tsukuba.ac.jp/location/)116講義室<br>
 概要: <br>
 深層学習は高い精度を発揮するデータ解析技術だが、その精度を発揮する原理には未だに明らかになっていない点が多い。本講演では、深層学習や過剰なパラメータを持つ統計モデルの性質を記述する理論を紹介する。講義の前半では基本的な深層学習に着目し、その誤差を近似・複雑性・最適化の項目に分割した上で、各要素を解析する個別の研究を紹介する。その後、より応用的な深層学習技術に関する知見を共有する。講義の後半では、過剰なパラメータを持つ統計モデルに関する理論の構築とそれがもたらす示唆について議論する。時間に余裕があれば、近年の人工知能技術についての数理的な知見を議論する。<br>
-[[スライド]]()：準備中<br>
-[[動画]]()：準備中<br>
-<!--[[スライド]](https://drive.google.com/file/d/1yKtVO3_IGdChxwlg_h2mWhevM3YeVzuC/view?usp=share_link)
--->
 
 # 第7回
 日時: 2024/1/15 (月) 13:00-17:00 JST<br>
@@ -171,10 +167,10 @@
 前半では、Tutorialとして強化学習の基本的な理論・手法を、物理屋の目線から簡単に解説・実演し、強化学習に親しみを持ってもらう。
 後半では、先行研究としてのSymbolic Regressionの話を簡単におさらいし、自身の研究について解説する予定である。<br>
 [[ホワイトボード]](DLaP_Michishita_part1.pdf)
-[[jupyterノート]](https://github.com/YoshihiroMichishita/julia/blob/master/tutorial_RL.ipynb) <br>
+[[jupyterノート]](https://github.com/YoshihiroMichishita/julia/blob/master/tutorial_RL.ipynb)
 [[スライド1]](DLaP_Michishita_part2.pdf)
-[[スライド2]](DLaP_Michishita_part3.pdf) <br>
-[[動画]](https://www.youtube.com/playlist?list=PLqbAObo2uCdHQz7gZ8DovJVVIWtUPVjHi) <br>
+[[スライド2]](DLaP_Michishita_part3.pdf)
+[[動画]](https://www.youtube.com/playlist?list=PLqbAObo2uCdHQz7gZ8DovJVVIWtUPVjHi)
 
 # 第9回
 日時: 2024/4/25 (木) 13:00-17:00 JST <br>
@@ -188,7 +184,7 @@
 ・線形モデルと勾配降下法<br>
 ・特徴量工学と表現学習<br>
 ・Pythonによる実装<br>
-[[動画]](https://www.youtube.com/playlist?list=PLqbAObo2uCdGeG9zBgAfnCD8Mfd-Lj1zd) <br>
+[[動画]](https://www.youtube.com/playlist?list=PLqbAObo2uCdGeG9zBgAfnCD8Mfd-Lj1zd)
 
 # 第10回
 
@@ -202,7 +198,7 @@
 　指数型分布族などは、双対平坦なリーマン構造をなす。一般に凸関数ψが与えられたときに、Legendre変換をもとに、ここに双対平坦なリーマン構造を導入でき、ここでは、拡張ピタゴラスの定理、射影定理が成立し、多くの問題がすっきりと解ける。<br>
 　情報幾何は多くの分野で有用な方法となっている。たとえば、統計学はもとより、情報科学、深層学習など広い分野で使われている。ここでは、応用例として、統計学、深層学習、信号処理について述べよう。また、確率分布族に導入されるもう一つの幾何学、Wasserstein幾何との関係についても触れる予定である。<br>
 [[スライド]](./lectures4mlphys_amari_20240520.pdf) <br>
-[[動画]](https://www.youtube.com/playlist?list=PLqbAObo2uCdE9gYA-VBW92PlG4fi9QjXc) <br>
+[[動画]](https://www.youtube.com/playlist?list=PLqbAObo2uCdE9gYA-VBW92PlG4fi9QjXc)
 
 # 第11回
 
@@ -332,6 +328,7 @@ This lecture explores diffusion models through the lens of physics. We begin wit
 の手法と、その理論物理への応用の可能性について、機械学習の基礎とともに紹介します。通常の数値解法との違いや本手法の特長・注意点、さらに理論物理に現れる、境界条件の扱いが重要となる微分方程式の問題などを例にとり、具体的な研究への応用可能性を議論します。
 <br>
 [[講義資料]](https://drive.google.com/drive/folders/1AilONmc3elL8BEX4xsXYt31OXDrhMZGs?usp=drive_link)
+[[動画]](https://www.youtube.com/playlist?list=PLqbAObo2uCdHYMgHFLu4A5aDVIIEBwOpO)
 
 # 第22回
 日時: 2026/6/26 (金) 13:00-17:00 JST <br>
@@ -371,6 +368,7 @@ This lecture explores diffusion models through the lens of physics. We begin wit
 最後に、こうした高度なパフォーマンスエンジニアリングをAIエージェントに実行させる最新の取り組みについて触れ、オープンなアーキテクチャがいかに「今後のパフォーマンスエンジニアリング」と親和性が高いかを議論します。
 
 受講に際して書籍『[実践的パフォーマンスエンジニアリングによるAI高速化](https://gihyo.jp/book/2026/978-4-297-15349-6)』（技術評論社）は必須ではありませんが、事前に予習として目を通しておく、あるいは講義中に触れられなかった詳細について確認しながら受講すると、より理解を深めることができます。
+[[スライド]](https://speakerdeck.com/lwisteria_tt/ai-pafomansu-enjiniaringu-no-saizensen)
 
 # 第24回
 日時: 2026/11/6 (金) 13:00-17:00 JST <br>
@@ -381,3 +379,4 @@ This lecture explores diffusion models through the lens of physics. We begin wit
 概要: <br>
 大規模神経回路網は、現在のAI技術の中核をなす。しかしその挙動の解析は簡単ではない。本講義では、ランダムに結合した大規模深層新回路網を考え、その信号伝達の特性とそれと対をなす誤差の逆伝搬を巨視的な力学の観点から考察する。これは統計神経力学を構成するものであり、現在のAIの理論の貧困の状況に対して、新しい理論研究の方向を示唆するものと考える。<br>
 [[スライド]](./筑波大統計神経力学.pdf)
+[[動画]](https://www.youtube.com/playlist?list=PLXSHYYz5FQNk)
